@@ -1,4 +1,5 @@
 USE [master]
 GO
-
+:setvar DATABASE_FILE_SIZE_IN_KB "10000"
+:setvar LOG_FILE_SIZE_IN_KB "5000"
 GO
